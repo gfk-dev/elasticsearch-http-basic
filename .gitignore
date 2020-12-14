@@ -1,6 +1,6 @@
 *.class
 *.jar
-*.zip
+# *.zip
 /build/
 /target/
 *~
