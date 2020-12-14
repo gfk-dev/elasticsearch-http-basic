@@ -1,3 +1,10 @@
+# elasticsearch-http-basic (ES 2.x版, fork更新)
+
+- 支持ES 2.x的http basic 认证， 已测版本： v2.3.4  v2.1.1
+- 源码重现：基于2017.8.5版本的jar反编译取得 class -> java;  + META-INF/../pom.xml (当时改动的代码源不知去向..)
+
+---
+
 **IMPORTANT NOTICE**: This project is currently not supported. We accept pull requests, but we're not doing any feature development/bug fixing
 
 For alternatives, see [Search Guard](https://docs.search-guard.com/latest/http-basic-authorization).
