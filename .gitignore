@@ -14,3 +14,14 @@ deploy.sh
 data/
 /.local-execution-hints.log
 /.local-*-execution-hints.log
+
+
+.settings
+*.classpath
+*.project
+*.iml
+.idea
+.vscode
+
+*.vswp
+*.docx
